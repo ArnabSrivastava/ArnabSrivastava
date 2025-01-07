@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArnabSrivastava
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding so hopped on C,C++,Python,JavaScript,Java,Css etc.
+- 🌱 I’m currently learning React. 
+- 💞️ I’m looking to collaborate on react.
 - 📫 How to reach me -> arnabsrivastava2002@gmail.com
 
 <!---
